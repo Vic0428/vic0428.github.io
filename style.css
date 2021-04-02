@@ -93,7 +93,8 @@ a:hover {
 /* ---------Style for my image-------------------- */
 #Weiqi-image {
     width: 200px;
-    border-radius: 125px;
+    /* border-radius: 125px; */
+    border-radius: 50px;
 }
 
 /* ---------Style for project image-------------------- */
