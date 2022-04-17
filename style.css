@@ -92,9 +92,9 @@ a:hover {
 }
 /* ---------Style for my image-------------------- */
 #Weiqi-image {
-    width: 300px;
+    width: 200px;
     /* border-radius: 125px; */
-    border-radius: 100px;
+    border-radius: 50px;
 }
 
 /* ---------Style for project image-------------------- */
